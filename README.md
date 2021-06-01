@@ -21,4 +21,5 @@
 ------------------------------
 ### Изображение приложения:
 
-
+![Screenshot_1622556210](https://user-images.githubusercontent.com/77355204/120338535-fdc49c80-c2fc-11eb-8505-a91d68f6fa77.png)
+![Screenshot_1622556231](https://user-images.githubusercontent.com/77355204/120338538-fe5d3300-c2fc-11eb-9747-51fd2894a681.png)
