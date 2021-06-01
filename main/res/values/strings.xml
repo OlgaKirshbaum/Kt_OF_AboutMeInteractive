@@ -1,0 +1,23 @@
+
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Olga Arima</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Ola Arima.
+\n\nIn 2020, I decided to take up programming.
+\n\nI\'ve always wanted to. I really like to learn new things.
+\nAnd this app is one of the first.
+\n\nI wish you all success!
+
+\nА теперь немного о приложении:
+
+\nПриложение AboutMeInteractive добавляет пользовательскую интерактивность
+\n\nв приложение AboutMe из предыдущей таблицы кода.
+\n\nЭто приложение состоит из поля для ввода ник, кнопки ГОТОВО и текстового представления для отображения ник.
+\nКак только пользователь вводит ник и нажимает кнопку ГОТОВО, текстовое представление обновляется, чтобы
+\nпоказать введенный ник. Ник можно обновить, нажав на текстовое представление.
+        \n\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
